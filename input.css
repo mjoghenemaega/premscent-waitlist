@@ -53,7 +53,7 @@
   }
 
   .image-shadow {
-    filter: drop-shadow(10px 10px 5px #9A65CF);
+    filter: drop-shadow(10px 10px 5px #255F6A);
   }
 
   @media screen and (max-width: 1024px) {
